@@ -2,7 +2,7 @@
 
 [![native poll tests](https://img.shields.io/badge/Examples-Native_Polls-green.svg?style=flat-square)](https://github.com/TelegramBots/Telegram.Bot/blob/master/test/Telegram.Bot.Tests.Integ/Polls/AnonymousPollTests.cs)
 
-Native poll are a special kind of message with question & answers where users can vote. Options can be set to allow multiple answers, vote anonymously, or be a quizz with a correct choice and explanation.
+Native poll is a special kind of message with question & answers where users can vote. Options can be set to allow multiple answers, vote anonymously, or be a quizz with a correct choice and explanation.
 
 ## Send a poll
 
